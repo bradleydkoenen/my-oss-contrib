@@ -44,5 +44,7 @@
   - In your repository on GitHub, select "Compare & pull request" button
   <img src="pullrequestbutton.png" label="Pull Request Button">
  
+  - Submit the pull request
+  <img src="submitrequeset.png" label="Submit Request">
   
 
