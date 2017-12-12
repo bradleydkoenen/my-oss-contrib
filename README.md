@@ -34,6 +34,10 @@
   - To commit change to Contributors.md, in terminal, run: git commit -m "Add bradleydkoenen to Contributors list"
   <img src="addnametolist.png" label="Add Name To List">
   
+## 5.  Push changes to GitHub
+
+  - To push your changes, in terminal, run: git push origin add-my-oss-contrib
+  <img src="addossorigin.png" label="Add OSS Origin">
  
   
 
