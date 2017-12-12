@@ -3,6 +3,10 @@
 ###### Due 19 November 2017, 11:19 pm
 ###### Bradley Koenen
 # First Contributions
+  - I chose this project because it is an easy way for a beginner to make an open source contribution.  
+  - From Sep 18, 2016 – Dec 12, 2017 there have been 1,254 contributors.  The most recent contribution was one day ago. 
+  - I can contribute my name in the list of contributors for this project.  
+  - My steps in choosing this project were to: 1) consult Christain Burke on "do-able" repositories; 2) Google search beginner     repositories.    
 # Link to finalized pull request: https://github.com/Roshanjossey/first-contributions/compare/master...bradleydkoenen:master
 ## 1.  Fork first-contributions repository
 <img src="forkrepository.png" label="Fork Repository">
