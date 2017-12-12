@@ -48,6 +48,7 @@
   
   * **Now create a branch using the git checkout command:**
   git checkout -b add-bradleydkoenen
+  <img src="gitcheckout.png" alt="Git Checkout">
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
