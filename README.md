@@ -22,8 +22,15 @@
   * **From Sep 18, 2016-Dec 11, 2017, there have been 1,254 contributors.**
 - What do you think you can contribute?
 - What were your steps in choosing this project?
-  1 find an open source project Roshanjossey/first-contributions a.k.a "upstream"
-  2 pull open source project onto my computer ~/first-contributions
+  * find an open source project Roshanjossey/first-contributions a.k.a "upstream"
+  
+  ![alt text](findproject.png)
+  
+  Reference-style:
+  ![alt text][logo]
+  
+  
+  * pull open source project onto my computer ~/first-contributions
 
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
