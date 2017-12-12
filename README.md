@@ -24,9 +24,9 @@
   * **People commit daily**
 - What do you think you can contribute?
   * **There are 12 active issues**
-  * **Maintainers respond nearly daily when they are opened**
-  * **The most recent issue was opened a day ago**
-  * **30 issues have been closed so far, the most recent on Nov 6**
+  * **Maintainers respond nearly daily when they are opened.**
+  * **The most recent issue was opened one day ago.**
+  * **30 issues have been closed so far, the most recent on Nov 6th.**
   
 - What were your steps in choosing this project?
   
