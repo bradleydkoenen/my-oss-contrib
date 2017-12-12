@@ -32,6 +32,10 @@
   
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
+  * **Picture of forking the first-contribution repo into ~/bradleykoenen**
+  * **Click clipboard to copy the web url to first-contributions fork**
+  
+  
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
   * <a href="http://www.christianburk.com/csc548-2017/cab-process.pdf/" target="_blank">CAB process</a>
