@@ -56,6 +56,7 @@
   using the git add command:
   
   git add Contributors.md
+  <img src="addcontributors.png" alt="Add Contributors">
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
