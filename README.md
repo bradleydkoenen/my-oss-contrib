@@ -8,3 +8,5 @@
 ## 2.  Clone the repository
 <img src="clonerepository.png" label="Clone Repository">
 
+git clone https://github.com/bradleydkoenen/first-contributions.git
+
