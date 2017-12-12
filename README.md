@@ -72,7 +72,8 @@
 ### Push changes to GitHub <h3>
   Push your changes using the command git push:
   
-  git push origin <bradleydkoenen>
+  git push origin bradleydkoenen
+  <img src="gitpushorigin.png" alt="Git Push Origin">
 
   
   
