@@ -5,4 +5,6 @@
 # First Contributions
 ## 1.  Fork first-contributions repository
 <img src="forkrepository.png" label="Fork Repository">
+## 2.  Clone the repository
+<img src="clonerepository.png" label="Clone Repository">
 
