@@ -58,6 +58,11 @@
   git add Contributors.md
   <img src="addcontributors.png" alt="Add Contributors">
   
+  Now commit those changes using the git commit command:
+  
+  git commit -m "bradleydkoenen" to Contributors list"
+  
+  
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
   * <a href="http://www.christianburk.com/csc548-2017/cab-process.pdf/" target="_blank">CAB process</a>
