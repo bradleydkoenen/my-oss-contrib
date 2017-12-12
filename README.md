@@ -32,13 +32,13 @@
   
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
-### First, fork the first-contriution repository <h3>
+### - First, fork the first-contriution repository <h3>
   <img src="forkscreenshot.png" alt="Fork Screenshot">
   
-### Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon <h3>
+### - Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon <h3>
   <img src="clonescreenshot.png" alt="Clone Screenshot">
   
-### Open a terminal and run the following git command: <h3>
+### - Open a terminal and run the following git command: <h3>
   git clone https://github.com/bradleydkoenen/first-contributions.git
   <img src="terminalclone.png" alt="Terminal Clone">
   
