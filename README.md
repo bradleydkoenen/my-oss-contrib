@@ -46,6 +46,9 @@
   cd first-contributions
   <img src="contributionsdirectory.png" alt="Terminal Branch">
   
+  * **Now create a branch using the git checkout command:**
+  git checkout -b add-bradleydkoenen
+  
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
   * <a href="http://www.christianburk.com/csc548-2017/cab-process.pdf/" target="_blank">CAB process</a>
