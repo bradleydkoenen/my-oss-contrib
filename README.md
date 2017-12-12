@@ -61,6 +61,7 @@
   Now commit those changes using the git commit command:
   
   git commit -m "bradleydkoenen" to Contributors list"
+  <img src="gitcommit.png" alt="Git Commit">
   
   
 - Either a video screen capture with voice over screenshots with descriptions
