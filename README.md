@@ -51,7 +51,9 @@
   <img src="gitcheckout.png" alt="Git Checkout">
   
 ### Make necessary changes and commit those changes <h3>
-
+  Now open Contributors.md file in a text editor, add your name to it, and then save the file. If you go to the project    
+  directory and execute the command git status, you'll see there are changes. Add those changes to the branch you just created 
+  using the git add command:
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
