@@ -35,8 +35,7 @@
   * **First, fork the first-contriution repository**
   <img src="forkscreenshot.png" alt="Fork Screenshot">
   
-  * **Second, clone the first-contribution repository**
-    -click on the clone button and then click the copy to clipboard icon
+  * **Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon**
   
   
 - Either a video screen capture with voice over screenshots with descriptions
