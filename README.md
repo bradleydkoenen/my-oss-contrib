@@ -9,4 +9,8 @@
 - Find an open source project to which you'd like to contribute
 - Follow the steps necessary to make a pull request
 - Include the link to the pull request
+
 # First Contributions
+## Fork first-contributions repository
+<img src="forkrepository.png" label="Fork Repository">
+
