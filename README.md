@@ -33,7 +33,7 @@
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
   * **Fork the first-contriution repository**
-  ![alt text] (https://raw.githubusercontent.com/bradleydkoenen/my-oss-contrib/branch/path/to/forkscreenshot.png)
+  <img src="forkscreenshot.png" alt="Fork Screenshot">
   * **Click clipboard to copy the web url to first-contributions fork**
   
   
