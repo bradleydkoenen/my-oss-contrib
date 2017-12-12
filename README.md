@@ -45,6 +45,6 @@
   <img src="pullrequestbutton.png" label="Pull Request Button">
  
   - Submit the pull request
-  <img src="submitrequeset.png" label="Submit Request">
+  <img src="submitrequest.png" label="Submit Request">
   
 
