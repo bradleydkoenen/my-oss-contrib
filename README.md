@@ -3,6 +3,6 @@
 ###### Due 19 November 2017, 11:19 pm
 ###### Bradley Koenen
 # First Contributions
-## Fork first-contributions repository
+## 1.  Fork first-contributions repository
 <img src="forkrepository.png" label="Fork Repository">
 
