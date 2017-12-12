@@ -14,14 +14,14 @@
 4.  Include the link to the pull request
 
 ## Grading: <h2>
-## Justification: <h2>
+## Justification: 20% <h2>
 **Answering the following questions:**
 - Why this project?
 - How active are the contributors on the project?
 - What do you think you can contribute?
 - What were your steps in choosing this project?
 
-## Documentation: <h2>
+## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
@@ -33,10 +33,10 @@ Example of video screen capture with voiceover:
 - http://codekarate.com/daily-dose-of-drupal/create-secret-urls-drupal-7-token-content-access
 - <a href="https://www.youtube.com/watch?v=dSl_qnWO104/" target="_blank">Your First GitHub Pull Request (in 10 Mins)</a>
 
-## Process: <h2>
+## Process: 20% <h2>
 - How closely do you follow the steps and considerations described in How to choose (and contribute to) your first open source project
 
-## Code change(s): <h2>
+## Code change(s): 20% <h2>
 - How did you improve the project with your code changes?
 - What kind of improvements should the end user or the developers experience?
 - Show the code changes and tell how it is an improvement.  
