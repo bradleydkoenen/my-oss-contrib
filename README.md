@@ -47,14 +47,14 @@
   <img src="contributionsdirectory.png" alt="Terminal Branch">
   
 ### Now create a branch using the git checkout command: <h3>
-  git checkout -b add-bradleydkoenen
-  <img src="gitcheckout.png" alt="Git Checkout">
+  *git checkout -b add-bradleydkoenen
+  <img src="gitcheckout.png" alt="Git Checkout">*
   
 ### Make necessary changes and commit those changes <h3>
-  Now open Contributors.md file in a text editor, add your name to it, and then save the file. If you go to the project    
+  *Now open Contributors.md file in a text editor, add your name to it, and then save the file. If you go to the project    
   directory and execute the command git status, you'll see there are changes. Add those changes to the branch you just created 
   using the git add command:
-  git add Contributors.md
+  git add Contributors.md*
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
