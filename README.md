@@ -20,6 +20,8 @@
 - How active are the contributors on the project?
 - What do you think you can contribute?
 - What were your steps in choosing this project?
+ * find an open source project Roshanjossey/first-contributions a.k.a "upstream"
+ * pull open source project onto my computer ~/first-contributions
 
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
