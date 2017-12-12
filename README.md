@@ -60,7 +60,6 @@
   <img src="gitstatus.png" alt="Git Status">
   
   Add those changes using the git add command:
-  <img src="addcontributors.png" alt="Add Contributors">
   
   git add Contributors.md
   <img src="addcontributors.png" alt="Add Contributors">
