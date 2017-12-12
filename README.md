@@ -17,4 +17,7 @@
   - In terminal, run: cd first-contributions
   <img src="firstcontributionsterminal.png" label="First Contributions Terminal">
   
+  - To create a branch, in terminal, run: git checkout my-oss-contrib
+  <img src="mybranch.png" label="My Branch">
+  
 
