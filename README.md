@@ -39,7 +39,7 @@
   <img src="clonescreenshot.png" alt="Clone Screenshot">
   
   * **Open a terminal and run the following git command:**
-  git clone "url you just copied"
+  git clone https://github.com/bradleydkoenen/first-contributions.git
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
