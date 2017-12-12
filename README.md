@@ -22,12 +22,15 @@
   
 ## 4.  Make necessary changes and commit those changes
 
-  - First, I opened the Contributors.md file in a text editor, added my name to it, and saved the file.
+  - First, I opened Contributors.md file in a text editor, added my name to it, and saved the file.
   <img src="nameineditor.png" label="Name In Editor">
   
-  - To verify changes, in terminal, run: git status
+  - To verify change to Contributors.md, in terminal, run: git status
   <img src="gitstatus.png" label="Git Status">
   
-  If you go to the project directory and execute the command git status, you'll see there are changes. Add those changes to the branch you just created using the git add command: 
+  - To add change to Contributors.md to the branch you created, in terminal run: git add Contributors.md
+  <img src"gitaddchange.png" label="Git Add Change">
+  
+ 
   
 
