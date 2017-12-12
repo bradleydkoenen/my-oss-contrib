@@ -12,4 +12,9 @@
   - In terminal, run: git clone https://github.com/bradleydkoenen/first-contributions.git
   <img src="clonerepositoryterminal.png" label="Clone Repository Terminal">
   
+## 3.  Create branch
+
+  - In terminal, run: cd first-contributions
+  <img src="firstcontributionsterminal.png" label="First Contributions Terminal">
+  
 
