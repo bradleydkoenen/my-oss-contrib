@@ -50,6 +50,9 @@
   git checkout -b add-bradleydkoenen
   <img src="gitcheckout.png" alt="Git Checkout">
   
+  * **Make necessary changes and commit those changes**
+   - now open
+  
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
   * <a href="http://www.christianburk.com/csc548-2017/cab-process.pdf/" target="_blank">CAB process</a>
