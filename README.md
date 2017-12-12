@@ -62,6 +62,12 @@
   
   git commit -m "bradleydkoenen" to Contributors list"
   <img src="gitcommit.png" alt="Git Commit">
+
+### Push changes to GitHub <h3>
+  Push your changes using the command git push:
+  
+  git push origin <bradleydkoenen>
+
   
   
 - Either a video screen capture with voice over screenshots with descriptions
