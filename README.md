@@ -38,11 +38,11 @@
 ### - Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon <h3>
   <img src="clonescreenshot.png" alt="Clone Screenshot">
   
-### - Open a terminal and run the following git command: <h3>
+### Open a terminal and run the following git command: <h3>
   git clone https://github.com/bradleydkoenen/first-contributions.git
   <img src="terminalclone.png" alt="Terminal Clone">
   
-### Third, create a branch.  Change to the repository directory on your computer (if you are not already there): <h3>
+### - Third, create a branch.  Change to the repository directory on your computer (if you are not already there): <h3>
   cd first-contributions
   <img src="contributionsdirectory.png" alt="Terminal Branch">
   
