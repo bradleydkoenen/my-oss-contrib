@@ -8,10 +8,10 @@
 ### ✅ Write up all your documentation in the README.md file of the repo, using Markdown. <h3>
 
 ## Steps: <h2>
- 1.  Go to <a href="https://github.com/collections/choosing-projects/" target="_blank">How to choose (and contribute to) your   first open source project</a>
- 2.  Find an open source project to which you'd like to contribute
- 3.  Follow the steps necessary to make a pull request
- 4.  Include the link to the pull request
+1.  Go to <a href="https://github.com/collections/choosing-projects/" target="_blank">How to choose (and contribute to) your     first open source project</a>
+2.  Find an open source project to which you'd like to contribute
+3.  Follow the steps necessary to make a pull request
+4.  Include the link to the pull request
 
 ## Grading: <h2>
 ## Justification: 20% <h2>
@@ -32,7 +32,7 @@
   
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
-  * **Picture of forking the first-contribution repo into ~/bradleykoenen**
+  * **Fork the first-contriution repository**
   * **Click clipboard to copy the web url to first-contributions fork**
   
   
