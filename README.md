@@ -31,6 +31,8 @@
   - To add change to Contributors.md to the branch you created, in terminal run: git add Contributors.md
   <img src="gitaddchange.png" label="Git Add Change">
   
+  - To commit change to Contributors.md, in terminal, run: git commit -m "Add bradleydkoenen to Contributors list"
+  <img src="addnametolist.png" label="Add Name To List">
   
  
   
