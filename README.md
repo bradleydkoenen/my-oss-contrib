@@ -40,6 +40,11 @@
   
   * **Open a terminal and run the following git command:**
   git clone https://github.com/bradleydkoenen/first-contributions.git
+  <img src="terminalclone.png" alt="Terminal Clone">
+  
+  * **Third, create a branch.  Change to the repository directory on your computer (if you are not already there):**
+  cd first-contributions
+  <img src="contributionsdirectory.png" alt="Terminal Branch">
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
