@@ -19,19 +19,17 @@
 - Why this project?
   * **I chose this project because it is one for beginners contributing to open source.**
 - How active are the contributors on the project?
-  * **From Sep 18, 2016-Dec 11, 2017, there have been 1,254 contributors.**
+  * **The latest commit was on December 11, 2017, approx. 15 hours ago by Roshanjossey.**
+  * **The project has 4,615 commits.**
+  * **People commit daily**
 - What do you think you can contribute?
+  * **There are 12 active issues**
+  * **Maintainers respond nearly daily when they are opened**
+  * **The most recent issue was opened a day ago**
+  * **30 issues have been closed so far, the most recent on Nov 6**
+  
 - What were your steps in choosing this project?
-  * find an open source project Roshanjossey/first-contributions a.k.a "upstream"
   
-  ![alt text](findproject.png)
-  
-  Reference-style:
-  ![alt text][logo]
-  
-  
-  * pull open source project onto my computer ~/first-contributions
-
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
 - Either a video screen capture with voice over screenshots with descriptions
