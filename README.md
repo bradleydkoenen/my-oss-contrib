@@ -7,4 +7,8 @@
 ### Write up all your documentation in the README.md file of the repo, using Markdown. <h3>
 
 ## Steps: <h2>
-1.  Go to How to choose (and contribute to) your first open source project https://github.com/collections/choosing-projects
+1.  Go to: [How to choose and contribute to your first open source project] (../collections/choosing-projects)
+2.  Find an open source project to which you'd like to contribute
+  2. https://roshanjossey.github.io/first-…
+3.  Follow the steps necessary to make a pull request
+4.  Include the link to the pull request
