@@ -38,6 +38,9 @@
   * **Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon**
   <img src="clonescreenshot.png" alt="Clone Screenshot">
   
+  * **Open a terminal and run the following git command:**
+  git clone "url you just copied"
+  
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
   * <a href="http://www.christianburk.com/csc548-2017/cab-process.pdf/" target="_blank">CAB process</a>
