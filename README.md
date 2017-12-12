@@ -10,4 +10,6 @@
 <img src="clonerepository.png" label="Clone Repository">
 
   - In terminal, run: git clone https://github.com/bradleydkoenen/first-contributions.git
+  <img src="clonerepositoryterminal.png" label="Clone Repository Terminal">
+  
 
