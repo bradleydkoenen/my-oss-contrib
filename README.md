@@ -54,13 +54,13 @@
   Now open Contributors.md file in a text editor, add your name to it, and then save the file. 
   <img src="addname.png" alt="Add name">
   
-  If you go to the project directory and execute the command git status, you'll see there are changes. Add those changes to   
-  the branch you just created: 
+  If you go to the project directory and execute the command git status, you'll see there are changes.
   
   git status
   <img src="gitstatus.png" alt="Git Status">
   
-  using the git add command:
+  Add those changes using the git add command:
+  <img src="addcontributors.png" alt="Add Contributors">
   
   git add Contributors.md
   <img src="addcontributors.png" alt="Add Contributors">
