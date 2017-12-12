@@ -3,6 +3,7 @@
 ###### Due 19 November 2017, 11:19 pm
 ###### Bradley Koenen
 # First Contributions
+# Link to finalized pull request: https://github.com/Roshanjossey/first-contributions/compare/master...bradleydkoenen:master
 ## 1.  Fork first-contributions repository
 <img src="forkrepository.png" label="Fork Repository">
 
@@ -46,5 +47,6 @@
  
   - Submit the pull request
   <img src="submitrequest.png" label="Submit Request">
+ 
   
 
