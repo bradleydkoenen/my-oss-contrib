@@ -67,7 +67,7 @@
   Now commit those changes using the git commit command:
   
   git commit -m "bradleydkoenen" to Contributors list"
-  <img src="gitcommit.png" alt="Git Commit">
+  <img src="addcontributor.png" alt="Git Commit">
 
 ### Push changes to GitHub <h3>
   Push your changes using the command git push:
