@@ -32,26 +32,26 @@
   
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
-  * **First, fork the first-contriution repository**
+### First, fork the first-contriution repository <h3>
   <img src="forkscreenshot.png" alt="Fork Screenshot">
   
-  * **Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon**
+### Second, clone the first-contribution repository.  Click on the clone button and then click the copy to clipboard icon <h3>
   <img src="clonescreenshot.png" alt="Clone Screenshot">
   
-  * **Open a terminal and run the following git command:**
+### Open a terminal and run the following git command: <h3>
   git clone https://github.com/bradleydkoenen/first-contributions.git
   <img src="terminalclone.png" alt="Terminal Clone">
   
-  * **Third, create a branch.  Change to the repository directory on your computer (if you are not already there):**
+### Third, create a branch.  Change to the repository directory on your computer (if you are not already there): <h3>
   cd first-contributions
   <img src="contributionsdirectory.png" alt="Terminal Branch">
   
-  * **Now create a branch using the git checkout command:**
+### Now create a branch using the git checkout command: <h3>
   git checkout -b add-bradleydkoenen
   <img src="gitcheckout.png" alt="Git Checkout">
   
-  * **Make necessary changes and commit those changes**
-   - now open
+### Make necessary changes and commit those changes <h3>
+
   
 - Either a video screen capture with voice over screenshots with descriptions
 - Examples of written documentation:
