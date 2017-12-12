@@ -7,4 +7,4 @@
 ### Write up all your documentation in the README.md file of the repo, using Markdown. <h3>
 
 ## Steps: <h2>
-1.  Go to [How to choose and contribute to your first open source project (https://github.com/collections/choosing-projects)]
+1.  Go to How to choose (and contribute to) your first open source project] (https://github.com/collections/choosing-projects)
