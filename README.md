@@ -32,9 +32,11 @@
   
 ## Documentation: 40% <h2>
 - Show your process from forking through editing/adding code all the way to the pull request. 
-  * **Fork the first-contriution repository**
+  * **First, fork the first-contriution repository**
   <img src="forkscreenshot.png" alt="Fork Screenshot">
-  * **Click clipboard to copy the web url to first-contributions fork**
+  
+  * **Second, clone the first-contribution repository**
+    -click on the clone button and then click the copy to clipboard icon
   
   
 - Either a video screen capture with voice over screenshots with descriptions
