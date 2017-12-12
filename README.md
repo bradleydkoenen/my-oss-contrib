@@ -38,6 +38,11 @@
 
   - To push your changes, in terminal, run: git push origin add-my-oss-contrib
   <img src="addossorigin.png" label="Add OSS Origin">
+  
+## 6.  Submit changes for review
+  
+  - In your repository on GitHub, select "Compare & pull request" button
+  <img src="pullrequestbutton.png" label="Pull Request Button">
  
   
 
